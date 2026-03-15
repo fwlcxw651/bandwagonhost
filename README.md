@@ -28,7 +28,6 @@
 
 - 搬瓦工官网不定期活动：[https://bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=74585)
 - 双十一、黑五等大促节点，搬瓦工通常会放出全场折扣码
-- 补货通知TG频道：@BandwagonHostNews（限量版补货时往往同步放出折扣）
 
 **使用提示**（如有优惠码时）：
 - 优惠码在下单时输入，在结账页面"Promotional Code"输入框中填入，点击"Validate Code"即可
